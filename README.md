@@ -22,7 +22,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
-
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 # 📊 GitHub Stats:
