@@ -3,6 +3,8 @@
 📧 Contact me: SerheySemenets@gmail.com
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%230CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/SergiiSemenets)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergii-semenets-b6a4922a5/)
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OOP](https://img.shields.io/badge/OOP-%23000000.svg?style=flat&logo=object-oriented&logoColor=white)
