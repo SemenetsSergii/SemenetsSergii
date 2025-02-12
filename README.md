@@ -1,6 +1,6 @@
 # 🐍 About me:
    Hi! i'm Sergii - Python developer<br>
-📧 How to reach me: SerheySemenets@gmail.com
+📧 Contact me: SerheySemenets@gmail.com
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%230CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/SergiiSemenets)
 # 💻 Tech Stack:
